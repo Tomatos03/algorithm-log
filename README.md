@@ -1,2 +1,1 @@
-# AlgorithmLog
-整理在各类算法竞赛中的思路
+![algorithm-log](https://socialify.git.ci/Tomatos03/algorithm-log/image?custom_description=+%F0%9F%92%96%E8%BF%99%E4%B8%AA%E4%BB%93%E5%BA%93%E7%94%A8%E6%9D%A5%E8%AE%B0%E5%BD%95%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0%E4%BB%A5%E5%8F%8A%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF&custom_language=VSCode&description=1&font=Jost&language=1&pattern=Charlie+Brown&theme=Dark)
